@@ -6,6 +6,7 @@ Last Modified: 231115 @ 1812
 
 */
 
+#include <SPI.h>
 #include <SD.h>
 
 /*
