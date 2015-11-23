@@ -7,9 +7,6 @@ Last Modified: 231115 @ 1751
 
 */
 
-#include <SPI.h>
-#include <SD.h>
-
 int val = 0;
 void setup() {
   pinMode(9,OUTPUT); //voltage out to the ECU
